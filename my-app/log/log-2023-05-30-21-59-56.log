@@ -1,0 +1,4 @@
+2023-05-30 21:59:56.644 [main] INFO  openweatherapi.GetWeatherData - stations
+2023-05-30 21:59:56.647 [main] INFO  openweatherapi.GetWeatherData - 10.99
+2023-05-30 21:59:56.647 [main] INFO  openweatherapi.GetWeatherData - IT
+2023-05-30 21:59:56.647 [main] INFO  com.mycompany.app.GetWeatherDataTest - Test Passed
